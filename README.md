@@ -13,3 +13,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javipitino&show_icons=true&locale=en&layout=compact" alt="javipitino" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javipitino&" alt="javipitino" /></p>
