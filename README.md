@@ -14,7 +14,7 @@
 
 
 <h3 align="center"Stats:</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaviPitino&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaviPitino&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)"  height="200px" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviPitino&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)" height="200px" />
 
