@@ -20,12 +20,14 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/javier-lopez-diaz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-lopez-diaz/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/javier-lopez-diaz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="center"Stats:</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaviPitino&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)"  height="200px" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviPitino&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)" height="200px" />
+
+<img align="center" src="https://www.codewars.com/users/JaviPitino/badges/small"
 
 
